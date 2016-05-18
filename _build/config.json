@@ -57,7 +57,7 @@
             ,"value": "collectioncontainer"
             ,"namespace": ""
         },{
-            "key": "mgr_tree_icon_selectioncontainer",
+            "key": "mgr_tree_icon_selectioncontainer"
             ,"area": "manager"
             ,"value": "selectioncontainer"
             ,"namespace": ""
